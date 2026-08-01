@@ -1,0 +1,8 @@
+{
+  "name": "OmniSpatial Forge",
+  "description": "A futuristic multimodal creative engine for reimagining photos, 3D renderings, video, and spatial sound through natural language interaction with autonomous chatterbot assistants.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
